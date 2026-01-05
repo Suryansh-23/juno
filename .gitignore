@@ -1,0 +1,17 @@
+.DS_Store
+xcuserdata/
+DerivedData/
+*.xcuserstate
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace
+
+# SwiftPM
+.build/
+.swiftpm/
+
+# Logs
+*.log
